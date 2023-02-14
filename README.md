@@ -1,2 +1,2 @@
 # rubot
-IOS, Android screen image, text recognition aids, game scripting tool frameworks.
+IOS, Android screen image, text recognition aids, mobile scripting tool frameworks.
